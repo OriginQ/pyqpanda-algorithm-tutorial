@@ -8,3 +8,4 @@ mypy<=0.971
 requests
 pycryptodome
 sphinx-autoapi
+sphinx_material
