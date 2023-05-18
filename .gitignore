@@ -1,0 +1,26 @@
+﻿################################################################################
+# 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
+################################################################################
+
+/.vs/github_QPanda2/v15/.suo
+.vscode
+.vs
+source/_build
+source/build
+/build
+/source/sphinx/__pycache__
+/.vs
+/.vs/slnx.sqlite
+/.vs
+/build
+/.vscode/settings.json
+/source/_build/html/.doctrees
+/source/_build/html
+/source/_build/.vscode
+/pyqpanda/*.pyd
+/pyqpanda/Operator/*.pyd
+/pyqpanda/__pycache__/*
+/pyqpanda/ChemiQ/__pycache__/*
+/pyqpanda/Operator/__pycache__/*
+/pyqpanda/Visualization/__pycache__/*
+/pyqpanda/ChemiQ/pyQPandaChemiQ.pyd
