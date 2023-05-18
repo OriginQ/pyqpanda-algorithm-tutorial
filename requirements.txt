@@ -1,0 +1,10 @@
+numpy>=1.17
+pyqpanda>=3.7.15
+matplotlib>=3.3
+pydot
+scipy
+sympy
+mypy<=0.971
+requests
+pycryptodome
+sphinx-autoapi
